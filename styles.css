@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255,233,190);
+background: linear-gradient(90deg, rgba(255,233,190,1) 0%, rgba(255,223,223,1) 50%, rgba(212,194,168,1) 100%);
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: #807463;
+    font-size: 32px;
+
+}
+
+footer {
+    color: #807463;
+}
+.slider {
+    width: 300px;
+    height: 533px;
+    overflow: hidden;
+   
+}
